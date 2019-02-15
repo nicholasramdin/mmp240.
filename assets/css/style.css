@@ -1,0 +1,22 @@
+h1{
+    color:black;
+    font-family:helvetica;
+    background-color: indianred;
+}
+
+p, label, li{
+    color: white;
+    font-family: verdana;
+    line-height: 24px;
+    background-color: black;
+}
+
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+div{
+    background-color: indianred;
+}
